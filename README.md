@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tejas-bhagwat
+- 👋 Hi, I’m Tejas A. Bhagwat
 - 👀 I’m interested in eveything related to coding
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on 
